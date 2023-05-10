@@ -1,4 +1,4 @@
-export function CalcularTotalDePlacasPossiveis(potenciaTotalDisponivel,potenciaPorPlaca){
+export function CalcularTotalDePlacas(potenciaTotalDisponivel,potenciaPorPlaca){
   
     var totalDePlacas= parseInt(potenciaTotalDisponivel/potenciaPorPlaca);
     /*
