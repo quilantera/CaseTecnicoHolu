@@ -1,0 +1,12 @@
+{
+  "name": "case-tecnico-holu",
+  "version": "1.0.0",
+  "description": "projeto feito por Gustavo Quilante Azevedo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
